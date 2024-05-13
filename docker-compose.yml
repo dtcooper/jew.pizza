@@ -59,7 +59,7 @@ services:
 
   analytics:
     restart: always
-    image: ghcr.io/umami-software/umami:postgresql-v2.10.2
+    image: ghcr.io/umami-software/umami:postgresql-v2.11.3
     depends_on:
       - db
     environment:
