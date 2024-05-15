@@ -109,6 +109,7 @@
         <a
           class="link link-primary link-hover font-bold"
           target="_blank"
+          data-umami-event="splash:podcast"
           href="https://shows.acast.com/this-is-going-well-i-think"
         >
           <span class="italic">This Is Going Well, I Think with David Cooper</span></a
